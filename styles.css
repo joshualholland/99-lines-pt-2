@@ -1,5 +1,5 @@
 body {
-    background-color: lavender
+    background-color: lightgray
 }
 
 h1 {
@@ -7,9 +7,13 @@ h1 {
 }
 
 .friend {
-    background-color: darkgray
+    background-color: blue
 }
 
 h3 {
-    text-transform: uppercase
+    text-transform: uppercase;
+    color: coral;
+}
+p {
+    font-family: fantasy;
 }
